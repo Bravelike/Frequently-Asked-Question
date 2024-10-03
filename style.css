@@ -29,6 +29,12 @@ hr {
     margin-bottom: 50px;
     margin-top: 50px;
 }
+a:active {
+    color: 4E80EE;
+}
+a:visited {
+    color: 4E80EE;
+}
 
 @media (max-width:680px) {
     main{
