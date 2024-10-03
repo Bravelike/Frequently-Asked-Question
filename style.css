@@ -17,9 +17,12 @@ p{
 }
 
 body{
-    background-color: D2D5DA;
     font-family: "inter", sans-serif;
     line-height: 1.6;
+}
+.group {
+    background-color: #F8FAFC;
+
 }
 main {
     margin: 100px 300px 100px 300px ;
@@ -29,11 +32,14 @@ hr {
     margin-bottom: 50px;
     margin-top: 50px;
 }
+a {
+    text-decoration: none;
+}
 a:active {
-    color: 4E80EE;
+    color: #4E80EE;
 }
 a:visited {
-    color: 4E80EE;
+    color: #4E80EE !important;
 }
 
 @media (max-width:680px) {
