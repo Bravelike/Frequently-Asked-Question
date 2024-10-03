@@ -8,6 +8,7 @@ header > h1 {
     font-weight: 600;
 }
 
+
 p{
     font-size: 1rem;
     font-family: "inter", sans-serif;
@@ -26,6 +27,7 @@ body{
 }
 main {
     margin: 100px 300px 100px 300px ;
+    padding-top: 50px;
     
 }
 hr {
